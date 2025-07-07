@@ -1,7 +1,10 @@
 # Unity_VFX
-lab 7 Machuslkyi Andrii
+
+Unity particles with great examples preview for: 
+- FireParticles
+- FirePit
+- SmokeBurst
+- Fireflies
+- Snow
 
 
-
-
-Управління мечами на пробіл
